@@ -1,5 +1,0 @@
-0000000000000000000000000000000000000000 db32c6ccce91e0b36873c8bfccd1e40f452a2060 senk0 <senk0@DESKTOP-IB3KU35> 1739159981 +0000	branch: Created from origin/master
-db32c6ccce91e0b36873c8bfccd1e40f452a2060 db32c6ccce91e0b36873c8bfccd1e40f452a2060 senk0 <senk0@DESKTOP-IB3KU35> 1739159981 +0000	checkout: moving from master to master
-db32c6ccce91e0b36873c8bfccd1e40f452a2060 db32c6ccce91e0b36873c8bfccd1e40f452a2060 Senk02 <admin@senk0.com> 1740498217 +0000	checkout: moving from master to master
-db32c6ccce91e0b36873c8bfccd1e40f452a2060 6e7ac0544e71c7b777746cb50f70de68c6495b86 Senk02 <admin@senk0.com> 1740498217 +0000	pull --quiet --rebase origin master: Fast-forward
-6e7ac0544e71c7b777746cb50f70de68c6495b86 6e7ac0544e71c7b777746cb50f70de68c6495b86 Senk02 <admin@senk0.com> 1740498217 +0000	checkout: moving from master to master
