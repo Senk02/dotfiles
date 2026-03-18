@@ -1,0 +1,29 @@
+add_newline = false
+format = """
+[┌\\[](5)$username[@](5)$hostname[\\]](5) $directory $git_branch$git_status
+[└>](5) """
+
+[username]
+show_always = true
+format = "[$user](bold 10)"
+
+[hostname]
+ssh_only = false
+format = "[$hostname](bold 10)"
+
+[directory]
+format = "[\\[](5)[$path](bold 10)[\\]](5)"
+truncation_length = 3
+
+[git_branch]
+format = "[\\[](5)[$branch](bold 10)"
+
+[git_status]
+format = "[$all_status$ahead_behind](5)[\\]](5) "
+diverged = "⚡"
+modified = "⚡"
+staged = "+"
+untracked = "?"
+
+[character]
+disabled = true
